@@ -1,0 +1,6 @@
+{
+  "name": "Shreyas Master AI",
+  "description": "Your Personal AI Study Partner - Learn, ask questions, practice, and prepare for exams with intelligent concept breakdowns and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
